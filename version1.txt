@@ -1,6 +1,16 @@
-Esta es mi archivo de texto plano utilizando git.
+Este es mi archivo de texto plano utilizando git.
 
 mi nombre es flavio y sigo el curso de git y gitHub profesional.
 
 
 espero servirles de mucha ayuda.
+
+1.utilize el git init par inicializar el archivo
+2. git add añade el archivo ... *** git add archivo.txt ***
+3. git status ... ver el estado.
+4. git commit ... agregando a la master *** git commit -m "primero commit".
+
+antes de todo configurar el git 
+
+*** git config --global user.name "nombre"
+*** git config --global user.email "email"
