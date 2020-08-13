@@ -1,0 +1,6 @@
+Esta es mi archivo de texto plano utilizando git.
+
+mi nombre es flavio y sigo el curso de git y gitHub profesional.
+
+
+espero servirles de mucha ayuda.
