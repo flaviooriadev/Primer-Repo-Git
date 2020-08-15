@@ -14,3 +14,7 @@ antes de todo configurar el git
 
 *** git config --global user.name "nombre"
 *** git config --global user.email "email"
+
+
+git reset --hard es para cambiar los datos ateríos del archivo de forma completa ,
+mientras que el git reset --soft hace el cambio pero el archivo aun esta en el staging.
