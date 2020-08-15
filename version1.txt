@@ -15,4 +15,8 @@ antes de todo configurar el git
 *** git config --global user.name "nombre"
 *** git config --global user.email "email"
 
-no olvidar siempre para añadir git add . y para enviar git comió -m "mensaje"
+
+git reset --hard es para cambiar los datos ateríos del archivo de forma completa ,
+mientras que el git reset --soft hace el cambio pero el archivo aun esta en el staged.
+
+no olvidar siempre git add . y git commit -m "comentario"
