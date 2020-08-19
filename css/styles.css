@@ -11,11 +11,7 @@ body {
 
 .container {
     border: solid green 3px;
-<<<<<<< HEAD
     color:red;
-=======
-    color:blue;
->>>>>>> cabecera
     width: 300px;
     margin:0px auto;
 }
