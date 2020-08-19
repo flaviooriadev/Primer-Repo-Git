@@ -1,5 +1,16 @@
 body {
     text-align: center;
-    color: green ;
     font-family:Arial, Helvetica, sans-serif;
+}
+
+.container {
+    border: solid green 3px;
+    color:skyblue;
+    width: 300px;
+    margin:0px auto;
+}
+
+.post {
+    font-style: oblique;
+    padding-bottom: 1em;
 }
