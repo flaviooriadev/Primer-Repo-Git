@@ -3,6 +3,12 @@ body {
     font-family:Arial, Helvetica, sans-serif;
 }
 
+#cabecera {
+    font-size: 23px;
+    border-bottom: skyblue 3px solid;
+    padding:1em;
+}
+
 .container {
     border: solid green 3px;
     color:skyblue;
