@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Repo Git</title>
+</head>
+<style>
+    * {
+        margin:0;
+        padding=0;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .container {
+        border: 3px solid rgb(92, 196, 236);
+    }
+
+    h1 {
+        color:gray;
+        text-align: center;
+    }
+
+    p {
+        text-align: left;
+        margin-left: 20px;
+        padding: 5px;
+    }
+</style>
+<body>
+    <div class="container">
+        <h1>
+            Repo Git!!!
+        </h1>
+        <p> 
+            <h3>Primero acceder a nuestro directorio local</h3>
+            <ul>
+                <li> Luego añadir el Git init!!!</li>
+                <li>git add . </li>
+                <li>git commit -m "comentario descriptivo"</li>
+                <li>Git status como buena practica para comprobar el estado de nuestro archivos </li>
+            </ul>
+           
+        </p>
+        <p>
+            <h3>Subiendo nuestros archivos al espacio remoto</h3>
+            <cite>Nota: primero debemos de ingresar en GitHub</cite>
+            <p>Al ingresar a Git debemos de crear un repositorio al cual, despues de crearlo nos mostrara en la parte superio derecha una opcion de code, al darle click se msotrara un enlace de nuestro repo git, utilizaremos la opcion https.</p>
+            <ul>
+                <li>git remote add origin https://github.com/exmaple/example-repo.git</li>
+                <li>git pull origin master <i>nos saldra un error al cual indicaremos el siguiente comando, pierde cuidado lo estas haciendo bien</i></li>
+                <li>git pull origin master --allow-unrealted-histories</li>
+                <li>git push origin master</li>
+            </ul>
+            <p>Listo repo subida!!!</p>
+        </p>
+    </div>
+</body>
+</html>
