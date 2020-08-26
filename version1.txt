@@ -20,3 +20,7 @@ git reset --hard es para cambiar los datos ateríos del archivo de forma complet
 mientras que el git reset --soft hace el cambio pero el archivo aun esta en el staged.
 
 no olvidar siempre git add . y git commit -m "comentario"
+
+hola soy flaviodevloper y me estoy integrando al grupo, aquí tienes los siguientes comandos para clonar un repositorio.
+
+*** git clone https://github.com/example/example.git *** 
